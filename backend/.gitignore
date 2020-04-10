@@ -1,0 +1,4 @@
+node_modules
+tmp
+src/config/mail.js
+src/config/auth.js
